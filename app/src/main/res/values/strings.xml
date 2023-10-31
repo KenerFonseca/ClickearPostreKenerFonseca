@@ -4,6 +4,6 @@
     <string name="dessert_sold">Postres Vendidos</string>
     <string name="total_revenue">Total</string>
     <string name="share">Compartir</string>
-    <string name="share_text">I\'ve clicked %1$d Desserts for a total of $%2$d #AndroidDessertClicker</string>
+    <string name="share_text">He hecho clic en %1$d postres por un total de $%2$d #AndroidDessertClicker</string>
     <string name="sharing_not_available">Compartir no disponible</string>
 </resources>
